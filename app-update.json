@@ -1,7 +1,7 @@
 {
-  "version_name": "0.1.15",
-  "version_code": 15,
-  "apk_url": "https://github.com/GriZZli1975/check_and_photo_app/releases/download/app-v0.1.15/check_photo_app.apk",
-  "release_notes": "Stoocks: версия и копирование ошибок на экране подключения. Кнопка Stoocks на главной.",
+  "version_name": "0.1.16",
+  "version_code": 16,
+  "apk_url": "https://github.com/GriZZli1975/check_and_photo_app/releases/download/app-v0.1.16/check_photo_app.apk",
+  "release_notes": "Stoocks: исправлен путь API (/outer/api/v1). Подключение к test.f-auto.spb.ru.",
   "mandatory": false
 }
