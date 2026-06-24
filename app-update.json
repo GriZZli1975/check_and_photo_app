@@ -1,7 +1,7 @@
 ﻿{
-  "version_name": "0.1.20",
-  "version_code": 20,
-  "apk_url": "https://github.com/GriZZli1975/check_and_photo_app/releases/download/app-v0.1.20/check_photo_app.apk",
-  "release_notes": "Stoox — отдельный раздел с подкатегориями. Главная: осмотр и диагностика. Упрощённый экран баланса.",
+  "version_name": "0.1.21",
+  "version_code": 21,
+  "apk_url": "https://github.com/GriZZli1975/check_and_photo_app/releases/download/app-v0.1.21/check_photo_app.apk",
+  "release_notes": "Исправлена бесконечная загрузка в Stoox. Каждый раздел грузит только свои данные.",
   "mandatory": false
 }
