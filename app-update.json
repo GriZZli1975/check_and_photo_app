@@ -1,7 +1,7 @@
 {
-  "version_name": "0.1.18",
-  "version_code": 18,
-  "apk_url": "https://github.com/GriZZli1975/check_and_photo_app/releases/download/app-v0.1.18/check_photo_app.apk",
-  "release_notes": "Stoocks: дашборд с балансом, корзинами, продажами и гарантией. Заголовок key (test_key). Быстрые ссылки с главной.",
+  "version_name": "0.1.19",
+  "version_code": 19,
+  "apk_url": "https://github.com/GriZZli1975/check_and_photo_app/releases/download/app-v0.1.19/check_photo_app.apk",
+  "release_notes": "Stoocks: баланс на сегодня без дат, исправлены ошибки API, URL по умолчанию test.f-auto.spb.ru.",
   "mandatory": false
 }
